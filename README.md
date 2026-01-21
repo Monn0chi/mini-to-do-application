@@ -1,3 +1,2 @@
 # Mini to do app 
-to do app without GUI I will upload it soon
-enjoy!
+Enjoy my mini to do application, pls rate me:D
